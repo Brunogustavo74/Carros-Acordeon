@@ -343,7 +343,7 @@ body {
 	background: rgba(255, 255, 255, 0.2);
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
 	.accordion-slider {
 		flex-direction: column;
 	}
